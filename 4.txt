@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  jnnn  vnv v  vnvf  fjbhfhfbvbfhn
+=======
+ jnnn  vnv v  vnvf  fn
+>>>>>>> slave2
