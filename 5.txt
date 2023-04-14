@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bgnnn ghh      gn gngng gngngng mkmckfmcckfmvn
 =======
 bgnnn ghh      gn gngng gngngngn
+>>>>>>> slave2
+=======
+bgnnn ghh      gn gngng gngngngbhvvcgvcgn
 >>>>>>> slave2
