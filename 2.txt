@@ -1,8 +1,4 @@
  hi all
  how are you
-<<<<<<< Updated upstream
  kknnjbhdbchbcj
  hello
-=======
- kknnjbhvcbhdbchdbcj
->>>>>>> Stashed changes
