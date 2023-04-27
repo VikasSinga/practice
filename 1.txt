@@ -1,4 +1,4 @@
 i=10
 for k in i:
 k=k+10
-print(k)
+prit(k)
