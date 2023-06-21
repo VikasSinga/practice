@@ -1,5 +1,8 @@
 i=10
 for k in i:
 k=k+10
+<<<<<<< HEAD
 print(k)
 print("hello")
+prit(k)
+
