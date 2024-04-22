@@ -1,6 +1,6 @@
 i=10
 for k in i:
-k=k+10
+k=k+1000
 print(k)
 print("hello")
 prit(k)
